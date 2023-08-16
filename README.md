@@ -26,3 +26,7 @@ EXP6
 EXP7
 
 ![image](https://github.com/Shaiksammera/CSA06DAA/assets/112576522/2c06a2d5-19e8-4e7d-b97c-d14ebddb23a8)
+
+EXP8
+
+![image](https://github.com/Shaiksammera/CSA06DAA/assets/112576522/11edcd34-ec2f-48ea-a17b-44a4bbb90e7f)
