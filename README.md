@@ -34,3 +34,7 @@ EXP8
 EXP9
 
 ![image](https://github.com/Shaiksammera/CSA06DAA/assets/112576522/aa330876-cb01-4ad8-ab36-5273303276b8)
+
+EXP10
+
+![image](https://github.com/Shaiksammera/CSA06DAA/assets/112576522/23f0b598-024e-4c52-aa42-394a3e55b06b)
