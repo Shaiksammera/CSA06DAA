@@ -10,3 +10,7 @@ EXP2
 EXP3
 
 ![image](https://github.com/Shaiksammera/CSA06DAA/assets/112576522/88b949e2-fb9e-4043-b1ed-31fcae70eb41)
+
+EXP4
+
+![image](https://github.com/Shaiksammera/CSA06DAA/assets/112576522/3ad720dc-70bf-4cf2-850f-a6b7dff70d74)
