@@ -18,3 +18,7 @@ EXP4
 EXP5
 
 ![image](https://github.com/Shaiksammera/CSA06DAA/assets/112576522/617f2f45-2821-47e2-a747-141b014b9d8d)
+
+EXP6
+
+![image](https://github.com/Shaiksammera/CSA06DAA/assets/112576522/25ace4d0-f7d1-413c-b668-0f2d0c69b43e)
