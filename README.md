@@ -30,3 +30,7 @@ EXP7
 EXP8
 
 ![image](https://github.com/Shaiksammera/CSA06DAA/assets/112576522/11edcd34-ec2f-48ea-a17b-44a4bbb90e7f)
+
+EXP9
+
+![image](https://github.com/Shaiksammera/CSA06DAA/assets/112576522/aa330876-cb01-4ad8-ab36-5273303276b8)
