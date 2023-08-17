@@ -58,3 +58,7 @@ EXP14
 EXP15
 
 ![image](https://github.com/Shaiksammera/CSA06DAA/assets/112576522/0b845a8a-0b7b-4cea-97ed-56a4c3fa455e)
+
+EXP16
+
+![image](https://github.com/Shaiksammera/CSA06DAA/assets/112576522/aa87dd79-bd2f-4390-a879-2cc87c923260)
