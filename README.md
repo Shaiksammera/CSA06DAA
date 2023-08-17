@@ -42,3 +42,7 @@ EXP10
 EXP11
 
 ![image](https://github.com/Shaiksammera/CSA06DAA/assets/112576522/20477469-8101-4b35-a17c-0ac5b426b45b)
+
+EXP12
+
+![image](https://github.com/Shaiksammera/CSA06DAA/assets/112576522/2eeb3853-88af-4a2b-a686-12e49e932da7)
