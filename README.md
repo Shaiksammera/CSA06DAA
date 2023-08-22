@@ -78,3 +78,7 @@ EXP19
 EXP20
 
 ![image](https://github.com/Shaiksammera/CSA06DAA/assets/112576522/5dbf19c9-7174-4cdd-a7b5-d6d49b63794e)
+
+EXP22
+
+![image](https://github.com/Shaiksammera/CSA06DAA/assets/112576522/1f1a220d-4b07-45fa-b02a-f37f4b7317a3)
