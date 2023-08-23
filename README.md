@@ -94,3 +94,7 @@ EXP24
 EXP25
 
 ![image](https://github.com/Shaiksammera/CSA06DAA/assets/112576522/b6d0053e-284f-41d5-9f3d-f469564cfc9e)
+
+EXP28
+
+![image](https://github.com/Shaiksammera/CSA06DAA/assets/112576522/c39af687-f0c9-43a8-8eb7-c1b7b6925089)
