@@ -118,3 +118,7 @@ EXP33
 EXP37
 
 ![image](https://github.com/Shaiksammera/CSA06DAA/assets/112576522/d5ce0360-9ff2-47eb-aca1-ee481b32db61)
+
+EXP39
+
+![image](https://github.com/Shaiksammera/CSA06DAA/assets/112576522/1a1db4a8-65e6-4282-a418-8b06256f670d)
